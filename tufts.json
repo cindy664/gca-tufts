@@ -14,8 +14,8 @@
     "programName": "Tufts Global Career Accelerator",
     "termsandConditionsPolicy": null,
     "credits": "3 Tufts credits",
-    "startDate": "May 20",
-    "endDate": "August 14"
+    "startDate": "June 1",
+    "endDate": "August 9"
   },
   {
     "item": "about",
@@ -29,6 +29,46 @@
     "seasonYear": "Summer 2026",
     "term": null,
     "season": "Summer",
-    "registrationMessage": "2026 Summer registration<br>is now open."
+    "registrationMessage": "2026 Summer registration is now open."
+  },
+  {
+    "item": "data-analytics",
+    "schoolname": "Tufts University",
+    "trackTitle": "Data Analytics Track",
+    "seasonYear": "Summer 2026",
+    "startDate": "June 1",
+    "endDate": "August 9",
+    "credits": "3 credits",
+    "creditsSchool": "Tufts credits"
+  },
+  {
+    "item": "digital-marketing",
+    "schoolname": "Tufts University",
+    "trackTitle": "Digital Marketing Track",
+    "seasonYear": "Summer 2026",
+    "startDate": "June 1",
+    "endDate": "August 9",
+    "credits": "3 credits",
+    "creditsSchool": "Tufts credits"
+  },
+  {
+    "item": "coding-for-web",
+    "schoolname": "Tufts University",
+    "trackTitle": "Coding for Web Track",
+    "seasonYear": "Summer 2026",
+    "startDate": "June 1",
+    "endDate": "August 9",
+    "credits": "3 credits",
+    "creditsSchool": "Tufts credits"
+  },
+  {
+    "item": "coding-for-data",
+    "schoolname": "Tufts University",
+    "trackTitle": "Coding for Data Track",
+    "seasonYear": "Summer 2026",
+    "startDate": "June 1",
+    "endDate": "August 9",
+    "credits": "3 credits",
+    "creditsSchool": "Tufts credits"
   }
 ]
