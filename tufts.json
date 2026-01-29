@@ -1,20 +1,25 @@
 [
   {
     "item": "home",
+    "schoolname": "Tufts University",
+    "genericProgramName": "The Global Career Accelerator",
     "secondaryBrandColor": null,
     "primaryBrandColor": null,
     "buttonColor": "#3E8EDE",
     "buttonTextColor": "#ffffff",
     "logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-dynamic-email/Tufts.png",
+    "cobranded_logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-cobrand-gca-dynamic-email/Tufts.png",
     "partner_id": "0014T00000FmtXYQAZ",
+    "programName": "Tufts Global Career Accelerator",
+    "termsandConditionsPolicy": null,
     "startDate": "May 20",
     "endDate": "August 14"
   },
   {
     "item": "about",
-    "cobranded_logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-cobrand-gca-dynamic-email/Tufts.png",
+    "schoolname": "Tufts University",
+    "genericProgramName": "The Global Career Accelerator",
     "schoolFullAddress": null,
-    "programName": "Tufts Global Career Accelerator",
     "abbreviation": "Tufts",
     "phone": "(617) 622-5596",
     "credits": "3 credits<br>of your Tufts tuition.",
