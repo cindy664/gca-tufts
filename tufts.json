@@ -39,7 +39,8 @@
     "startDate": "June 1",
     "endDate": "August 9",
     "credits": "3 credits",
-    "creditsSchool": "Tufts credits"
+    "abbreviation": "Tufts",
+    "registrationMessage": "2026 Summer registration is now open."
   },
   {
     "item": "digital-marketing",
@@ -49,7 +50,8 @@
     "startDate": "June 1",
     "endDate": "August 9",
     "credits": "3 credits",
-    "creditsSchool": "Tufts credits"
+    "abbreviation": "Tufts",
+    "registrationMessage": "2026 Summer registration is now open."
   },
   {
     "item": "coding-for-web",
@@ -59,7 +61,8 @@
     "startDate": "June 1",
     "endDate": "August 9",
     "credits": "3 credits",
-    "creditsSchool": "Tufts credits"
+    "abbreviation": "Tufts",
+    "registrationMessage": "2026 Summer registration is now open."
   },
   {
     "item": "coding-for-data",
@@ -69,6 +72,7 @@
     "startDate": "June 1",
     "endDate": "August 9",
     "credits": "3 credits",
-    "creditsSchool": "Tufts credits"
+    "abbreviation": "Tufts",
+    "registrationMessage": "2026 Summer registration is now open."
   }
 ]
