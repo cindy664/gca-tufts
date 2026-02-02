@@ -1,7 +1,7 @@
 [
   {
     "item": "home",
-    "schoolname": "University of California, Riverside",
+    "schoolname": "Tufts University",
     "abbreviation": "Tufts",
     "genericProgramName": "The Global Career Accelerator",
     "secondaryBrandColor": null,
@@ -16,12 +16,13 @@
     "registrationMessage": "2026 Summer registration is now open.",
     "termsandConditionsPolicy": null,
     "credits": "3 Tufts credits",
-    "startDate": "May 20",
-    "endDate": "August 14"
+    "startDate": "June 1",
+    "endDate": "August 14",
+    "phone": "(617) 622-5596"
   },
   {
     "item": "about",
-    "schoolname": "University of California, Riverside",
+    "schoolname": "Tufts University",
     "genericProgramName": "The Global Career Accelerator",
     "schoolFullAddress": null,
     "abbreviation": "Tufts",
@@ -37,11 +38,12 @@
     "item": "explore-tracks",
     "credits": "3 Tufts credits",
     "abbreviation": "Tufts",
-    "registrationMessage": "2026 Summer registration is now open."
+    "registrationMessage": "2026 Summer registration is now open.",
+    "phone": "(617) 622-5596"
   },
   {
     "item": "digital-marketing",
-    "schoolname": "University of California, Riverside",
+    "schoolname": "Tufts University",
     "trackTitle": "Digital Marketing Track",
     "seasonYear": "Summer 2026",
     "startDate": "May 20",
@@ -52,7 +54,7 @@
   },
   {
     "item": "coding-for-web",
-    "schoolname": "University of California, Riverside",
+    "schoolname": "Tufts University",
     "trackTitle": "Coding for Web Track",
     "seasonYear": "Summer 2026",
     "startDate": "May 20",
@@ -63,7 +65,7 @@
   },
   {
     "item": "data-analytics",
-    "schoolname": "University of California, Riverside",
+    "schoolname": "Tufts University",
     "trackTitle": "Data Analytics Track",
     "seasonYear": "Summer 2026",
     "startDate": "May 20",
@@ -74,7 +76,7 @@
   },
   {
     "item": "coding-for-data",
-    "schoolname": "University of California, Riverside",
+    "schoolname": "Tufts University",
     "trackTitle": "Coding for Data Track",
     "seasonYear": "Summer 2026",
     "startDate": "May 20",
@@ -85,7 +87,7 @@
   },
   {
     "item": "career-rotation",
-    "schoolname": "University of California, Riverside",
+    "schoolname": "Tufts University",
     "trackTitle": "Career Rotation Track",
     "seasonYear": "Summer 2026",
     "startDate": "May 20",
@@ -100,5 +102,11 @@
     "registrationMessage": "Registration is now open.",
     "phone": "(617) 622-5596",
     "abbreviation": "Tufts"
+  },
+  {
+    "item": "begin",
+    "credits": "3 Tufts credits",
+    "abbreviation": "Tufts",
+    "phone": "(617) 622-5596"
   }
 ]
