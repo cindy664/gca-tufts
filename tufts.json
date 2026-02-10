@@ -13,6 +13,7 @@
     "partner_id": "0014T00000FmtXYQAZ",
     "programName": "Tufts Global Career Accelerator",
     "termsandConditionsPolicy": null,
+    "registrationMessage": "Registration is now open.",
     "credits": "3 Tufts credits",
     "startDate": "May 20",
     "endDate": "August 14"
@@ -29,13 +30,13 @@
     "seasonYear": "Summer 2026",
     "term": "Summer",
     "season": "Summer",
-    "registrationMessage": "2026 Summer registration is now open."
+    "registrationMessage": "Registration is now open."
   },
   {
     "item": "explore-tracks",
     "credits": "3 Tufts credits",
     "abbreviation": "Tufts",
-    "registrationMessage": "2026 Summer registration is now open."
+    "registrationMessage": "Registration is now open."
   },
   {
     "item": "digital-marketing",
@@ -43,7 +44,7 @@
     "trackTitle": "Digital Marketing Track",
     "credits": "3 Tufts credits",
     "abbreviation": "Tufts",
-    "registrationMessage": "2026 Summer registration is now open.",
+    "registrationMessage": "Registration is now open.",
     "courseCode1": "⚪ Not Set",
     "courseCode2": "⚪ Not Set",
     "seasonYear1": "Summer 2026",
@@ -59,7 +60,7 @@
     "trackTitle": "Coding for Web Track",
     "credits": "3 Tufts credits",
     "abbreviation": "Tufts",
-    "registrationMessage": "2026 Summer registration is now open.",
+    "registrationMessage": "Registration is now open.",
     "courseCode1": "⚪ Not Set",
     "courseCode2": "⚪ Not Set",
     "seasonYear1": "Summer 2026",
@@ -75,7 +76,7 @@
     "trackTitle": "Data Analytics Track",
     "credits": "3 Tufts credits",
     "abbreviation": "Tufts",
-    "registrationMessage": "2026 Summer registration is now open.",
+    "registrationMessage": "Registration is now open.",
     "courseCode1": "⚪ Not Set",
     "courseCode2": "⚪ Not Set",
     "seasonYear1": "Summer 2026",
@@ -91,7 +92,7 @@
     "trackTitle": "Coding for Data Track",
     "credits": "3 Tufts credits",
     "abbreviation": "Tufts",
-    "registrationMessage": "2026 Summer registration is now open.",
+    "registrationMessage": "Registration is now open.",
     "courseCode1": "⚪ Not Set",
     "courseCode2": "⚪ Not Set",
     "seasonYear1": "Summer 2026",
@@ -107,7 +108,7 @@
     "trackTitle": "Career Rotation Track",
     "credits": "3 Tufts credits",
     "abbreviation": "Tufts",
-    "registrationMessage": "2026 Summer registration is now open.",
+    "registrationMessage": "Registration is now open.",
     "courseCode1": "⚪ Not Set",
     "courseCode2": "⚪ Not Set",
     "seasonYear1": "Summer 2026",
